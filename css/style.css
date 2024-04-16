@@ -23,11 +23,19 @@ a{
     padding: 20px;
     
 }
+.max3{
+text-align: center;
+background-color: blue;
+padding: 20px 0 20px 0;
+
+
+}
 
 .btn{
     text-align: center;
    margin-top: 20px;
    margin-bottom: 20px;
+   
 }
 .btn button{
     padding: 15px 60px;
@@ -37,4 +45,5 @@ a{
 .btn button a{
     color: black;
     font-size: 40px;
+    in
 }

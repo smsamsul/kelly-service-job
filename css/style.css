@@ -31,6 +31,10 @@ a{
 }
 .btn button{
     padding: 15px 60px;
-    background-color: black;
-    color: #fff;
+    background-color: #fff;
+    
+}
+.btn button a{
+    color: black;
+    font-size: 40px;
 }
